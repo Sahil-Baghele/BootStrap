@@ -250,7 +250,6 @@ header .ham-burger.active span:nth-child(2) {
   font-family: "Open Sans", sans-serif;
 }
 
-/*Service Section*/
 .service {
   padding: 80px 0px;
   background-color: #c11325;
@@ -351,7 +350,6 @@ header .ham-burger.active span:nth-child(2) {
   font-family: "Open Sans", sans-serif;
 }
 
-/*Classes Section*/
 
 .classes {
   padding: 80px 0px 50px;
@@ -467,7 +465,6 @@ header .ham-burger.active span:nth-child(2) {
   color: #ffffff;
 }
 
-/*Start Today Section*/
 .start-today {
   background-color: #222222;
 }
